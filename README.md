@@ -117,7 +117,6 @@ This assessment is Week 5 of the ZeroDay Reapers GRC internship. Prior weeks bui
 ## Author
 
 **Abdullah Zubair**  
-Cybersecurity | GRC | Security Automation
 - GitHub: [@AvatarParzival](https://github.com/AvatarParzival)
 - LinkedIn: [Abdullah Zubair](https://www.linkedin.com/in/abdullahzubairr)
 - Email: [abdullah69zubair@gmail.com](mailto:abdullah69zubair@gmail.com)
